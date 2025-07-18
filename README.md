@@ -90,6 +90,9 @@ graph LR
 4. **Tunggu proses** kompresi/konversi (akan tampil progress bar).
 5. **Download file hasil** melalui tombol yang tersedia.
 6. **Ulangi** untuk file lain jika diperlukan.
+7. Buku Panduan Lengkap PDF:
+   [MANUAL BOOK REDIM CONVERTER.pdf](https://github.com/user-attachments/files/21308614/MANUAL.BOOK.REDIM.CONVERTER.pdf)
+
 
 ## Tips:
 - Pastikan ukuran file tidak melebihi batas maksimal (10MB).
